@@ -3,6 +3,7 @@
 
 # Versão do SPT
 Tenha certeza de que está na versão correta do SPT que está rodando no servidor.
+
 Atualmente estamos na versão 3.8.3 ([SPT HUB](https://hub.sp-tarkov.com/files/file/16-spt/#versions))
 
 # Patch mínimo
