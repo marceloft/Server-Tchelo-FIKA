@@ -1,6 +1,11 @@
 # Server-Tchelo-FIKA
  Informações e atualizações para o servidor de SPT FIKA do Tchelo
 
+# Como instalar o SPT
+Usando o Instalador automático: [https://hub.sp-tarkov.com/files/file/672-spt-installer/](https://hub.sp-tarkov.com/files/file/672-spt-installer/)
+
+Instalação manual: [https://hub.sp-tarkov.com/doc/entry/49-a-comprehensive-step-by-step-guide-to-manually-installing-spt-properly/](https://hub.sp-tarkov.com/doc/entry/49-a-comprehensive-step-by-step-guide-to-manually-installing-spt-properly/)
+
 # Versão do SPT
 Tenha certeza de que está na versão correta do SPT que está rodando no servidor.
 
