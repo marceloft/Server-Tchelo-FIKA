@@ -21,23 +21,23 @@
     "Presets": [
       {
         "Name": "starting-pmcs-only-live-like",
-        "Weight": 20
+        "Weight": 25
       },
       {
         "Name": "starting-pmcs-only-live-like-alt",
-        "Weight": 20
+        "Weight": 25
       },
       {
         "Name": "starting-pmcs-only-late-scavs",
-        "Weight": 20
+        "Weight": 10
       },
       {
         "Name": "starting-pmcs-only-quietraids",
-        "Weight": 20
+        "Weight": 5
       },
       {
         "Name": "starting-pmcs-only-morescavs",
-        "Weight": 20
+        "Weight": 5
       }
     ]
   },
