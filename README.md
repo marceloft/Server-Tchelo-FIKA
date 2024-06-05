@@ -20,10 +20,3 @@ Baixe em [RELEASES](https://github.com/marceloft/Server-Tchelo-FIKA/releases) a 
 Patch com os mods e configurações que estou utlizando na live.
 
 Baixe em [RELEASES](https://github.com/marceloft/Server-Tchelo-FIKA/releases) a versão mais atual
-
-# SAIN + DONUTS - Tchelo
-Apenas configurações do SAIN + DONUTS que estou usando nas lives.
-
-É OBRIGATÓRIO ALGUM PATCH ACIMA.
-
-Baixe em [RELEASES](https://github.com/marceloft/Server-Tchelo-FIKA/releases) a versão mais atual
